@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=500&size=30&duration=4500&pause=600&color=068300&center=true&vCenter=true&width=524&lines=Jo%C3%A3o+Vitor+Godinho" alt="Typing SVG" /></a>
+  </a>
+</div>
+<p align="center">Computer Science @ UNOESC · Aspiring ethical hacker · Backend developer</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
