@@ -11,6 +11,22 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <h3>Main Stack:</h3>
+  <img src="https://skillicons.dev/icons?i=py,php,cs,postgres,django,dotnet,laravel" alt="Main Tech Stack" /><br><br>
+  <h3>Others:</h3>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kafka" alt="Other Tech Stack" />
+</div>
+
+---
+
+### 🔎 About me:
+- Graduated in Computer Science @ UNOESC (🇧🇷).
+- Experienced in data science, WEB and graphic systems development, A.I, modeling and simulation.
+- Exploring the world of cybersecurity.
+- Speaker of Portuguese, English and studying Japanese.
+---
+
 <!--
 **joaov-godinho/joaov-godinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
