@@ -25,19 +25,14 @@
 - Experienced in data science, WEB and graphic systems development, A.I, modeling and simulation.
 - Exploring the world of cybersecurity.
 - Speaker of Portuguese, English and studying Japanese.
+  
 ---
 
-<!--
-**joaov-godinho/joaov-godinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="" height="190px" src="./src/chill.gif">
 
-Here are some ideas to get you started:
+<h3 align="left">Contacts</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joaovitor.godinho@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-vb-godinho/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/godinho_jvb/)
+
