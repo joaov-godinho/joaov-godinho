@@ -13,9 +13,9 @@
 
 <div align="center">
   <h3>Main Stack:</h3>
-  <img src="https://skillicons.dev/icons?i=py,php,cs,postgres,django,dotnet,laravel" alt="Main Tech Stack" /><br><br>
+  <img src="https://skillicons.dev/icons?i=py,php,cs,mysql,git,postgres,django,laravel,dotnet" alt="Main Tech Stack" /><br><br>
   <h3>Others:</h3>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kafka" alt="Other Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,opencv,html,css,mongodb,kafka,yarn" alt="Other Tech Stack" />
 </div>
 
 ---
