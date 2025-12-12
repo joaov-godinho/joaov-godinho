@@ -14,10 +14,10 @@
 <div align="center">
   <h3>Main Stack:</h3>
     
-  <img src="https://skillicons.dev/icons?i=py,django,mysql,docker,linux,cs,dotnet,php,laravel" alt="Main Tech Stack" /><br><br>![Static Badge](https://img.shields.io/badge/:badgeContent)
+  <img src="https://skillicons.dev/icons?i=py,django,mysql,docker,linux,cs,dotnet,php,laravel" alt="Main Tech Stack" /><br><br>
 
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=kafka,yarn,mongodb,postgres,git,opencv" alt="Tools" /><br><br>![Static Badge](https://img.shields.io/badge/:badgeContent)
+  <img src="https://skillicons.dev/icons?i=kafka,yarn,mongodb,postgres,git,opencv" alt="Other Tech Stack" /><br><br>
 
 </div>
 
