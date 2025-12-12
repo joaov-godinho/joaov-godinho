@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=500&size=30&duration=4500&pause=600&color=068300&center=true&vCenter=true&width=524&lines=Jo%C3%A3o+Vitor+Godinho" alt="Typing SVG" /></a>
   </a>
 </div>
-<p align="center">Computer Science @ UNOESC · Aspiring ethical hacker · Backend developer</p>
+<p align="center">Computer Science @ UNOESC · Backend developer · Aspiring ethical hacker</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
@@ -13,9 +13,8 @@
 
 <div align="center">
   <h3>Main Stack:</h3>
-  <img src="https://skillicons.dev/icons?i=py,php,cs,mysql,git,postgres,django,laravel,dotnet" alt="Main Tech Stack" /><br><br>
-  <h3>Others:</h3>
-  <img src="https://skillicons.dev/icons?i=linux,docker,opencv,html,css,mongodb,kafka,yarn" alt="Other Tech Stack" />
+  ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361) 
+
 </div>
 
 ---
