@@ -13,11 +13,26 @@
 
 <div align="center">
   <h3>Main Stack:</h3>
-    
-  <img src="https://skillicons.dev/icons?i=py,django,mysql,docker,linux,cs,dotnet,php,laravel" alt="Main Tech Stack" /><br><br>
+
+  ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=FFFFFF)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+  ![Docker](https://img.shields.io/badge/docker-%23430098.svg?style=for-the-badge&logo=docker&logoColor=white&color=003F8C)
+  ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=FFFFFF)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=FFFFFF)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFFFFF)
 
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=kafka,yarn,mongodb,postgres,git,opencv" alt="Other Tech Stack" /><br><br>
+
+  ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-222222?style=for-the-badge&logo=Apache+Hadoop&logoColor=66CCFF)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache+Kafka&logoColor=FFFFFF)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF)
+  ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+
 
 </div>
 
@@ -36,6 +51,6 @@
 <h3 align="left">Contacts</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joaovitor.godinho@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-vb-godinho/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/godinho_jvb/)
+[![Linkerd](https://img.shields.io/badge/Linkerd-222222?style=for-the-badge&logo=Linkerd&logoColor=2BEDA7)](https://www.linkedin.com/in/jo%C3%A3o-vb-godinho/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/godinho_jvb/)
 
