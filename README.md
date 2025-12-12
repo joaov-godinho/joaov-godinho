@@ -13,7 +13,11 @@
 
 <div align="center">
   <h3>Main Stack:</h3>
-  ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361) 
+    
+  <img src="https://skillicons.dev/icons?i=py,django,mysql,docker,linux,cs,dotnet,php,laravel" alt="Main Tech Stack" /><br><br>![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=kafka,yarn,mongodb,postgres,git,opencv" alt="Tools" /><br><br>![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 </div>
 
