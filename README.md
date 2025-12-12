@@ -40,7 +40,7 @@
 
 ### 🔎 About me:
 - Graduated in Computer Science @ UNOESC (🇧🇷).
-- Experienced in data science, WEB and graphic systems development, A.I., modeling and simulation.
+- Experienced in data science, WEB and graphic systems development, A.I., modeling and simulation systems.
 - Exploring the world of cybersecurity.
 - Speaker of Portuguese, English and studying Japanese.
   
