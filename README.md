@@ -26,7 +26,6 @@
   <h3>Tools</h3>
 
   ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-222222?style=for-the-badge&logo=Apache+Hadoop&logoColor=66CCFF)
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache+Kafka&logoColor=FFFFFF)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
