@@ -1,4 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&weight=500&size=30&duration=4500&pause=600&color=068300&center=true&vCenter=true&width=524&lines=João+Vitor+Godinho;Computer+Science+Graduate;Backend+Developer;Functional+Programming+Enthusiast)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
 
@@ -10,56 +12,10 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🛰️ [Space Traffic Simulation](https://github.com/joaov-godinho/space-simulation) 
-**TCC · Orbital Mechanics · Data Science**
-
-High-fidelity orbital propagator using RK4 integration and J2 perturbation corrections. Validates against industry-standard SGP4 model.
-
-**Tech:** Python · NumPy · Pandas · Skyfield · Matplotlib  
-**Paradigm:** Functional programming with pure transformations and composition  
-**Highlights:** Batch processing of 1000+ satellites, statistical validation, real TLE data integration
-
----
-
-### ⚙️ [Felipe Smith Language](https://github.com/joaov-godinho/smith-language)
-**Compiler · Transpiler · Language Design**
-
-A creative meme-based programming language that transpiles to C. Full implementation of lexer, parser, and code generator.
-
-**Tech:** Python · GCC · Compiler Design  
-**Paradigm:** Functional pipelines (Source → Tokens → AST → C Code)  
-**Highlights:** Custom syntax, complete compilation pipeline, educational project
-
----
-
-### 🌱 [Semente Digital](https://github.com/joaov-godinho/sementedigital)
-**Fullstack Web · Clean Architecture · DevOps**
-
-Rural management platform with weather forecasting, market prices scraping, and task management. Built with modern DevOps practices.
-
-**Tech:** Laravel · PHP · Docker · Redis · MySQL · Tailwind  
-**Architecture:** Service Pattern, DTOs, dependency injection  
-**Highlights:** Web scraping, API integration, strategic caching, responsive UI
-
----
-
-### 📐 [Interactive Graphics System](https://github.com/joaov-godinho/sistemagrafico)
-**Computer Graphics · Linear Algebra · Visualization**
-
-2D/3D graphics system with geometric transformations using homogeneous coordinates and 4x4 matrices.
-
-**Tech:** Python · NumPy · tkinter  
-**Paradigm:** Pure functions for geometric calculations, matrix composition  
-**Highlights:** Rotation, scaling, translation, viewport mapping, 3D projection
-
----
 
 ## 💻 Technical Skills
 
+<div align="center">
 ### Core Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -84,6 +40,7 @@ Rural management platform with weather forecasting, market prices scraping, and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+</div>
 
 ## 🎯 What I Do
 
@@ -127,7 +84,11 @@ I apply functional programming principles in my projects:
 
 ---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
