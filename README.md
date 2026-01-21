@@ -20,6 +20,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 </div>
 
+---
 
 ## 💻 Technical Skills
 
@@ -103,9 +104,9 @@ I apply functional programming principles in my projects:
 ---
 
 <div align="center">
-  
-[![](./src/chill.gif)](https://github.com/joaov-godinho)
 
 *"The best way to predict the future is to implement it."*
+  
+[![](./src/chill.gif)](https://github.com/joaov-godinho)
 
 </div>
