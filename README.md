@@ -8,6 +8,10 @@
 
 **Computer Science @ UNOESC** · **Backend Developer** · **Data Science** · **Cybersecurity Explorer**
 
+### 💬 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vb-godinho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitor.godinho@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/godinho_jvb/)
@@ -95,22 +99,6 @@ I apply functional programming principles in my projects:
 </picture>
 
 ---
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-**📧 joaovitor.godinho@outlook.com**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joão-vb-godinho/)
-
-</div>
-
----
-
-<div align="center">
 
 [![](./src/chill.gif)](https://github.com/joaov-godinho)
 
