@@ -53,24 +53,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 </div>
 
-## 🎯 What I Do
-
-### Functional Programming Approach
-I apply functional programming principles in my projects:
-
-- 🔄 **Pure Transformations:** Data pipelines with immutable state
-- 🧩 **Composition:** Building complex solutions from simple functions
-- 🎯 **Type Safety:** Leveraging DTOs and strong typing
-- 🚀 **Performance:** Using map/filter/reduce patterns for data processing
-
-### Areas of Expertise
-
-- 🔬 **Data Science:** Numerical simulation, statistical analysis, big data processing
-- 🌐 **Backend Development:** RESTful APIs, clean architecture, design patterns
-- 🎨 **Computer Graphics:** Geometric transformations, rendering algorithms
-- 🔐 **Cybersecurity:** Currently exploring ethical hacking and security practices
-- 🔧 **Compilers:** Lexical analysis, parsing, code generation
-
 ---
 
 ## 🌍 About Me
