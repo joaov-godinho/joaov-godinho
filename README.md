@@ -49,7 +49,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ### Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 </div>
 
