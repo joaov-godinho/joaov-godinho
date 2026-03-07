@@ -2,11 +2,17 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&weight=500&size=30&duration=4500&pause=600&color=068300&center=true&vCenter=true&width=524&lines=João+Vitor+Godinho;Computer+Science;Backend+Developer)](https://git.io/typing-svg)
 
+**Computer Science @ UNOESC** · **Backend Developer** · **Data Science**
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <div align="center">
-
-**Computer Science @ UNOESC** · **Backend Developer** · **Data Science**
 
 ---
 
@@ -40,7 +46,8 @@
 </div>
 
 ---
-
+<div align="left">
+  
 ## 🌍 About Me
 
 - 🎓 Graduated in Computer Science @ UNOESC (🇧🇷)
@@ -52,8 +59,6 @@
 ---
 
 ### 💬 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vb-godinho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitor.bgodinho@gmail.com)
@@ -67,17 +72,14 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaov-godinho&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaov-godinho&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaov-godinho&layout=compact&theme=dark&hide_border=true&langs_count=8)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaov-godinho&theme=github_dark)](https://github.com/joaov-godinho)
+
 
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaov-godinho/joaov-godinho/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ---
 
