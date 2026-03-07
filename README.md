@@ -6,19 +6,7 @@
 
 <div align="center">
 
-**Computer Science @ UNOESC** · **Backend Developer** · **Data Science** · **Cybersecurity Explorer**
-
----
-
-### 💬 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vb-godinho/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitor.bgodinho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/godinho_jvb/)
-
-</div>
+**Computer Science @ UNOESC** · **Backend Developer** · **Data Science**
 
 ---
 
@@ -28,7 +16,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   
 ### Core Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -57,10 +44,22 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ## 🌍 About Me
 
 - 🎓 Graduated in Computer Science @ UNOESC (🇧🇷)
-- 💼 Seeking first professional opportunity in tech
+- 💼 Open to work
 - 🔍 Passionate about solving complex problems with elegant solutions
 - 🗣️ Portuguese (native) · English (fluent) · Japanese (studying)
 - 📍 Based in Videira, Santa Catarina, Brazil (open to remote work)
+
+---
+
+### 💬 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vb-godinho/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitor.bgodinho@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/godinho_jvb/)
+
+</div>
 
 ---
 
